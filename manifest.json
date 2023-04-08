@@ -1,0 +1,11 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "id": "https://webpush.pages.dev/",
+  "name": "PushDemo",
+  "short_name": "PushDemo",
+  "start_url": ".",
+  "display": "fullscreen",
+  "background_color": "blue",
+  "description": "Web Push Demo"
+}
+
