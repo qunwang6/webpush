@@ -1,4 +1,4 @@
-const pushServerPublicKey = "BKgZAQKjnTOewocgh5Q0oV5-rmlHbdCdFi3MAE30kphD2H3tkWLZM0W6WmpM3lquIR-hrsqvquck7nvb5oY2Z1g"
+const pushServerPublicKey = "BDx3ZmI_BsHXE_ulMdumvCJKBl4coa_fFAWPMLD2TCzuUiHWBDdhXRlkoxXxSq51Zwq3XKB4zETpKNEW4yJpZfA"
 
 const pushNotificationSuported = isPushNotificationSupported();
 
